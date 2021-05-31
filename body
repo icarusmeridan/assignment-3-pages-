@@ -1,0 +1,37 @@
+body {Jarrad Hofman-Agar (s3908438) lives in Queensland, Australia and is a year 12 graduate currently working as a depot operator in TOMRA collection solutions. Jarrad has always had an interest in computers and application designing programs, and the ways in which IT can help people, allowing them to have an easier life. Jarrad is looking forward to learning more about software and security during his study with RMIT and kicking off a new career path in IT.  
+
+What I intend to do in the project learning waves is to create a new form of radio/podcast wake up app for use in the morning and if you are stuck in traffic in those unlikely situations.
+So, this application is a Spotify like app that is on your phone/tablet and or computer that learns your trends to what you like listening to but instead of picking from your music trends it works out your radio and podcast trends. 
+I am motivated to commit to this project due to the fact I am an avid Spotify user, I use it every single day of the week the one problem I have always encountered with using Spotify with podcasts is as follows. 
+I have encountered problems thru Spotify because finding specific podcasts due to the nature of how they have been stored on the app and I have noticed that Spotify tracks music trends but however in my experience it does not track your podcast listening trends. 
+Which I have found that when I want to listen to a podcast but cannot find something that is captivating enough, I will leave and go listen to music.
+
+By having a podcast specific type app on your phone that has your specific recommendations entered in and learning algorithms to work out what you listen to and using specific keywords to narrow the search engine in on your specific topic, it will also be built with a permission, if accepted it will work out what time you start to use your phone/tablet to set an inbuilt alarm. 
+This can be used as your wake up if you wish to, the application is based on the same principles as Spotify meaning the fact that it is a free app to download of the play store or apple store. 
+This would mean it is a pay a subscription fee to remove advertisements from the app, however the application will have longer ad breaks but less frequently due to the fact its centred around podcasts not music.
+
+The aim of this project is to create an app for the modern bookworm who does not have time to read books but however has time to listen to a captivating subject matter, whether you are on a train, in a car or in a plane this will have you covered.
+The biggest problem that will be encountered creating the app is the self-learning algorithm that the app will have to compute.
+The listeners podcasts taste to pick the most relevant podcast closest to their interests, this is the hardest thing definitively for me to create due to my extremely basic programming experience which means creating a learning algorithm that can self-learn keywords and have gain of function to learn the listeners trends. 
+This will be one of the hardest things for me to produce.
+The roles for this project would be as follows.
+I will be doing everything due to previous group issues and current issues which means I will have to learn everything myself and do everything myself.
+
+To get the most out of the project I will need to defer and pick on certain things to set up and organise due to the limited nature of the group.
+The most important things I will need to focus on are fundamental to making the app run which are the screen designs and basic coding to link A to B equals to C cause without an app face that is not easy to use it will not pull in any users. 
+The next thing which is even more crucial than the visible software is the building blocks behind the app face, the programming of the application itself this is a fundamental piece of software, 
+Without it the app would fail to learn fail to play selected items it would fail to work as application entirely.
+The biggest issue faced in creating this application is my inexperience in programming itself because I am still relatively new too advanced programming and app creation which I can learn in due time but not in a short amount of time.
+Basic HTML coding still would not cut it due to the nature of how the app operates. 
+
+to run beta tests on the application I will put it thru a stringent set of tests regarding the UI (user interface) to make sure the app runs fluidly and smoothly between different panes of the app, making sure the transitions are nice and smooth between different tiles,
+also making sure the app is easily recognisable on the smartphones home screen or in the future desktop of your personal computer. 
+The next test the app would go thru would be hardware test to make sure it can run at speed on multiple different devices to cater for everyone, this would mean it will go on different operating systems (apple software, android 4.5 to android 11.1.0) making sure the app Is versatile and accessible to everyone.
+
+The timeframe I would like to have to create a application that is worthy to be given to the public ton use to save their time would appropriately be around a year or a little more due to the fact that the app will need to have contracts signed with podcast providers and marketing deals to make sure the app creates a income to pay the sponsors of the product. 
+Having a large time frame would be good as well to make sure that the application is functional and working as intended,
+
+By having the application functional and working as intended this will allow the company to run then product but at the same time cut down the cost of data centre rentals. 
+Other problems can arise due to some computer processing power, but I believe this app should be very low due to the fact the nature it uses offsite data centres which means we only need a computer a code the app and create the algorithm for the app which my tower computer should be able to easily handle the required workload.
+The group processes of this assignment are non-existent without any teams chat since the group has been non-existent and non-communicative which means this assignment is now a solo assignment.
+}body
